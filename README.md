@@ -1,4 +1,4 @@
-# DogsandCats-Classification
+# Dogs and Cats-Classification
 This is a final project of Introduction to Artificial Intelligence course. Our group chooses the project of classfication dogs and cats by deep learning model using Tensorflow 2.
 
 The deep learning model we choose in this project is ResNet (released by Microsoft). This is a basic deep leanring model used for computer vision. 
